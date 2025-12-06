@@ -16,3 +16,6 @@ Fraud detection is a strategic priority within the banking and financial service
 
 ## Connect with Sushmitha Gowda
 🔗 LinkedIn: [sushmitha Gowda](https://www.linkedin.com/in/sushmithagowda2003/)
+
+## Dashboard View
+[For Dashboard Click Here](https://github.com/sushmagowda2024/Credit-Card-Fraud-Risk-Analysis-Report/blob/main/Credit%20Card%20Fraud%20Risk%20Analysis%20Report.pbix)
